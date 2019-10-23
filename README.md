@@ -18,12 +18,12 @@ Documentation Page에서 HTML 코드를 긁어서 붙혀 넣는 것 만으로도
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>ManiaFrameWork</title> 
     <link rel="stylesheet" type="text/css" href="./mania.css"> <!-- <<< -->
+    <script src="./mania.js"></script> <!-- <<< -->
 </head>
 
 <body>
     <h1>Mania Framework</h1>
 
-    <script src="./mania.js"></script> <!-- <<< -->
 </body>
 
 </html>
